@@ -4,21 +4,21 @@
 
 # Hi there, I am Aldrin 👋
 
-> An engineer by profession, I am trying to get through the tech industry portal by learning programming languages and building worthwhile projects during free time.
+An engineer by profession, I am trying to get through the tech industry portal by learning programming languages and building worthwhile projects during free time.
 
-### Skills Learned
+## Skills Learned
 
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,autocad,py)](https://skillicons.dev)
 
-### Currently Learning 🌱
+## Currently Learning 🌱
 
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,php,jquery,mysql,react&theme=light)](https://skillicons.dev)
 
-### Projects 🔭
+## Projects 🔭
 
 ---
 
