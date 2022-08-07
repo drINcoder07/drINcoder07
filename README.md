@@ -26,6 +26,8 @@ An engineer by profession, I am learning programming languages and building wort
 
 ![](https://komarev.com/ghpvc/?username=drINcoder07&style=for-the-badge&color=76ba1b)
 
+![Aldrin''s GitHub stats](https://github-readme-stats.vercel.app/api?username=drINcoder07&show_icons=true&title_color=1e5631)
+
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
