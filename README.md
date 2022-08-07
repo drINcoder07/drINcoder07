@@ -6,21 +6,19 @@
 
 An engineer by profession, I am trying to get through the tech industry portal by learning programming languages and building worthwhile projects during free time.
 
-## Skills Learned
-
 ---
+
+## Skills Learned
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,autocad,py)](https://skillicons.dev)
 
 ## Currently Learning 🌱
 
----
+[![My Skills](https://skillicons.dev/icons?i=java,js,php,jquery,mysql,react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,php,jquery,mysql,react&theme=light)](https://skillicons.dev)
+---
 
 ## Projects 🔭
-
----
 
 - The Odin Project - Landing Page - https://github.com/drINcoder07/odin-landing-page
 - Company Landing Page - https://github.com/drINcoder07/company-landing-page
