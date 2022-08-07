@@ -20,7 +20,8 @@ An engineer by profession, I am learning programming languages and building wort
 
 ## Projects 🔭
 
-- <strong>The Odin Project - Landing Page </strong> - https://github.com/drINcoder07/odin-landing-page <em>
+- <strong>The Odin Project - Recipe </strong> - https://github.com/drINcoder07/odin-recipes
+- <strong>The Odin Project - Landing Page </strong> - https://github.com/drINcoder07/odin-landing-page
 - <strong>Company Landing Page </strong>- https://github.com/drINcoder07/company-landing-page
 
 <!-- Here are some ideas to get you started:
