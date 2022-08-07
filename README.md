@@ -4,7 +4,7 @@
 
 # Hi there, I am Aldrin 👋
 
-An engineer by profession, I am trying to get through the tech industry portal by learning programming languages and building worthwhile projects during free time.
+An engineer by profession, I am learning programming languages and building worthwhile projects during free time as part of my journey in entering the tech industry.
 
 ---
 
@@ -20,8 +20,8 @@ An engineer by profession, I am trying to get through the tech industry portal b
 
 ## Projects 🔭
 
-- The Odin Project - Landing Page - https://github.com/drINcoder07/odin-landing-page
-- Company Landing Page - https://github.com/drINcoder07/company-landing-page
+- <strong>The Odin Project - Landing Page </strong> - https://github.com/drINcoder07/odin-landing-page <em>
+- <strong>Company Landing Page </strong>- https://github.com/drINcoder07/company-landing-page
 
 <!-- Here are some ideas to get you started:
 
