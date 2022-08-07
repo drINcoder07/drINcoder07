@@ -24,6 +24,8 @@ An engineer by profession, I am learning programming languages and building wort
 - <strong>The Odin Project - Landing Page </strong> - https://github.com/drINcoder07/odin-landing-page
 - <strong>Company Landing Page </strong>- https://github.com/drINcoder07/company-landing-page
 
+![](https://komarev.com/ghpvc/?username=drINcoder07&style=for-the-badge&color=76ba1b)
+
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
