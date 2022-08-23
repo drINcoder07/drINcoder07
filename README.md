@@ -23,6 +23,7 @@ An engineer by profession, I am learning programming languages and building wort
 - <strong>The Odin Project - Recipe </strong> - https://github.com/drINcoder07/odin-recipes
 - <strong>The Odin Project - Landing Page </strong> - https://github.com/drINcoder07/odin-landing-page
 - <strong>Company Landing Page </strong>- https://github.com/drINcoder07/company-landing-page
+- <strong>The Odin Project - Rock, Paper and Scissors </strong>- https://drincoder07.github.io/odin-rock-paper-scissors/
 
 ![](https://komarev.com/ghpvc/?username=drINcoder07&style=for-the-badge&color=76ba1b)
 
