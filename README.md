@@ -2,13 +2,15 @@
 **drINcoder07/drINcoder07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi there, I am Aldrin 👋
+# Hi there 👋
 
-An engineer by profession, I am learning programming languages and building worthwhile projects during free time as part of my journey in entering the tech industry.
+#### I am Aldrin.
+
+An engineer by profession. Transitioning to tech!
 
 ---
 
-## Skills Learned
+## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,autocad,py)](https://skillicons.dev)
 
@@ -20,9 +22,12 @@ An engineer by profession, I am learning programming languages and building wort
 
 ## Projects 🔭
 
+- <strong>Company Landing Page </strong>- https://github.com/drINcoder07/company-landing-page
+
+#### The Odin Project
+
 - <strong>The Odin Project </strong> - Recipe- https://github.com/drINcoder07/odin-recipes
 - <strong>The Odin Project </strong> - Landing Page- https://github.com/drINcoder07/odin-landing-page
-- <strong>Company Landing Page </strong>- https://github.com/drINcoder07/company-landing-page
 - <strong>The Odin Project </strong> - Rock, Paper and Scissors - https://drincoder07.github.io/odin-rock-paper-scissors/
 
 ![](https://komarev.com/ghpvc/?username=drINcoder07&style=for-the-badge&color=76ba1b)
