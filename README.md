@@ -22,17 +22,24 @@ An engineer by profession. Transitioning to tech!
 
 ## Projects 🔭
 
+#### DATA ANALYTICS
+
+- <strong>Preppin' Data Challenge </strong> - https://github.com/drINcoder07/preppin-data-challenges
+- <strong>8-Week SQL Challenge </strong> - https://github.com/drINcoder07/8-week-sql-challenge
+
+
+#### WEB DEVELOPMENT
+
 - <strong>Company Landing Page </strong>- https://github.com/drINcoder07/company-landing-page
-
-#### The Odin Project
-
 - <strong>The Odin Project </strong> - Recipe- https://github.com/drINcoder07/odin-recipes
 - <strong>The Odin Project </strong> - Landing Page- https://github.com/drINcoder07/odin-landing-page
 - <strong>The Odin Project </strong> - Rock, Paper and Scissors - https://drincoder07.github.io/odin-rock-paper-scissors/
 
 ![](https://komarev.com/ghpvc/?username=drINcoder07&style=for-the-badge&color=76ba1b)
 
-![Aldrin''s GitHub stats](https://github-readme-stats.vercel.app/api?username=drINcoder07&show_icons=true&title_color=1e5631)
+![Aldrin''s GitHub stats](https://github-readme-stats.vercel.app/api?username=drINcoder07&show_icons=true&title_color=1e5631&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drINcoder07)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Here are some ideas to get you started:
 
