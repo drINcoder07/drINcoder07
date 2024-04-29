@@ -2,21 +2,21 @@
 **drINcoder07/drINcoder07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi there 👋
+# Hi there, Aldrin here 👋
 
-#### I am Aldrin.
+#### I'm very passionate about Data Analytics. I love uncovering insights from data using Excel, SQL, R, and Python, and building visually-appealing dashboards and reports using Power BI, Tableau, and other Data Visualization Tools.
 
-An engineer by profession. Transitioning to tech!
+#### I also have fairly basic knowledge in web development which started my self-taught journey in the tech industry.
+
+#### Right now, I'm building my patience in cleaning data using Power Query and SQL (help).
+
+#### Anyways, let's connect!
 
 ---
 
-## Skills
+## Skills Currently Using and Developing 🌱
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,autocad,py)](https://skillicons.dev)
-
-## Currently Learning 🌱
-
-[![My Skills](https://skillicons.dev/icons?i=java,js,php,jquery,mysql,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,py,r,html,css,js,autocad,sketchup)](https://skillicons.dev)
 
 ---
 
@@ -39,7 +39,7 @@ An engineer by profession. Transitioning to tech!
 
 ![Aldrin''s GitHub stats](https://github-readme-stats.vercel.app/api?username=drINcoder07&show_icons=true&title_color=1e5631&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drINcoder07)](https://github.com/anuraghazra/github-readme-stats)
+[![Aldrin''s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drINcoder07)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Here are some ideas to get you started:
 
