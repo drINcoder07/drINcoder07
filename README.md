@@ -4,13 +4,13 @@
 
 # Hi there, Aldrin here 👋
 
-#### I'm very passionate about Data Analytics. I love uncovering insights from data using Excel, SQL, R, and Python, and building visually-appealing dashboards and reports using Power BI, Tableau, and other Data Visualization Tools.
+I'm very passionate about Data Analytics. I love uncovering insights from data using Excel, SQL, R, and Python, and building visually-appealing dashboards and reports using Power BI, Tableau, and other Data Visualization Tools.
 
-#### I also have fairly basic knowledge in web development which started my self-taught journey in the tech industry.
+I also have fairly basic knowledge in web development which started my self-taught journey in the tech industry.
 
-#### Right now, I'm building my patience in cleaning data using Power Query and SQL (help).
+Right now, I'm building my patience in cleaning data using Power Query and SQL (help).
 
-#### Anyways, let's connect!
+Anyways, let's connect!
 
 ---
 
