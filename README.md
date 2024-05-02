@@ -14,7 +14,7 @@ Anyways, let's connect!
 
 ---
 
-## Skills Currently Using and Developing 🌱
+## Skills Currently Using and Learning 🌱
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,py,r,html,css,js,autocad,sketchup)](https://skillicons.dev)
 
