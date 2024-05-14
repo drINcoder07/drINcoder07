@@ -24,6 +24,7 @@ Anyways, let's connect!
 
 #### DATA ANALYTICS
 
+- <strong>Data Analysis Using SQL </strong> - https://github.com/drINcoder07/data-analysis-using-sql
 - <strong>Preppin' Data Challenge </strong> - https://github.com/drINcoder07/preppin-data-challenges
 - <strong>8-Week SQL Challenge </strong> - https://github.com/drINcoder07/8-week-sql-challenge
 
