@@ -24,17 +24,17 @@ Anyways, let's connect!
 
 #### DATA ANALYTICS
 
-- <strong>Data Analysis Using SQL </strong> - https://github.com/drINcoder07/data-analysis-using-sql
-- <strong>Preppin' Data Challenge </strong> - https://github.com/drINcoder07/preppin-data-challenges
-- <strong>8-Week SQL Challenge </strong> - https://github.com/drINcoder07/8-week-sql-challenge
+- <strong>[Data Analysis Using SQL](https://github.com/drINcoder07/data-analysis-using-sql) </strong>
+- <strong>[Preppin' Data Challenge](https://github.com/drINcoder07/preppin-data-challenges) </strong>
+- <strong>[8-Week SQL Challenge](https://github.com/drINcoder07/8-week-sql-challenge) </strong>
 
 
 #### WEB DEVELOPMENT
 
-- <strong>Company Landing Page </strong>- https://github.com/drINcoder07/company-landing-page
-- <strong>The Odin Project </strong> - Recipe- https://github.com/drINcoder07/odin-recipes
-- <strong>The Odin Project </strong> - Landing Page- https://github.com/drINcoder07/odin-landing-page
-- <strong>The Odin Project </strong> - Rock, Paper and Scissors - https://drincoder07.github.io/odin-rock-paper-scissors/
+- <strong>[Company Landing Page](https://github.com/drINcoder07/company-landing-page)  </strong>   
+- <strong>[The Odin Project - Recipe](https://github.com/drINcoder07/odin-recipes) </strong>   
+- <strong>[The Odin Project - Landing Page](https://github.com/drINcoder07/odin-landing-page) </strong>   
+- <strong>[The Odin Project - Rock, Paper and Scissors](https://drincoder07.github.io/odin-rock-paper-scissors/) </strong>   
 
 ![](https://komarev.com/ghpvc/?username=drINcoder07&style=for-the-badge&color=76ba1b)
 
